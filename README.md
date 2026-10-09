@@ -1,6 +1,6 @@
 # Opposites
 Opposites, a pass & play game.
 
-[https://loteman.github.io/Opposites/](https://loteman.github.io/Opposites/)
+[https://opposites.loteman.com/](https://opposites.loteman.com/)
 
-Game By [LotemanGames](https://loteman.github.io/Loteman-Games/)
+Game By [LotemanGames](https://games.loteman.com/)
